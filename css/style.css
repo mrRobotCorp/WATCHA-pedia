@@ -2,7 +2,10 @@
 nav ul a, nav { color: #444; } 
 
 p { line-height: 2rem; } 
+
 #homeBanner { height: 700px; background: url(../source/bg1.png) center no-repeat; background-size: cover; } 
+#movieBanner { height: 800px; background: url(../source/bg6.png) center no-repeat; background-size: cover; position: relative;}
+#movieContainer { width: 370px; text-align: center; position: absolute; top: 50%; left: 67%;}
 
 .sidenav-trigger { color: #ef1358; } 
 
